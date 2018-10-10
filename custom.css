@@ -1,0 +1,23 @@
+.navbar-default{
+    background-color: #FFFFFF;
+    font-size: 20px;
+}
+
+.navbar-header{
+    position: absolute;
+    left: 40px;
+    padding: 15px 6px 15px 25px;  /* changes surrounding colored space */
+    background-color: #0BADA6;
+    font-family: "Georgia", serif;
+    font-weight: bold;
+}
+.navbar-header a{
+    color: white !important;
+    font-size: 34px;
+}
+.navbar-nav{
+    margin: 15px 0px;
+}
+.navbar-nav li{
+    margin: 0px 15px;
+}
